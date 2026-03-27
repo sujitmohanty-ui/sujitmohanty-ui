@@ -67,15 +67,14 @@ open_to    = ["Internships", "Collabs", "Hackathons"]
 
 ### 📊 Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subham23s&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&include_all_commits=true&count_private=true" height="160"/>
+<div align="center"><img
+                      src="https://githubreadmestats.vercel.app/apiusername=sujitmohanty-ui&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&include_all_commits=true&count_private=true" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham23s&layout=compact&langs_count=5&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitmohanty-ui&layout=compact&langs_count=5&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" height="160"/>
 
 <br>
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=subham23s&bg_color=0d1117&color=00d4ff&line=00ffaa&point=ffffff&area=true&area_color=003333&hide_border=true&radius=8&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=sujitmohanty-ui&bg_color=0d1117&color=00d4ff&line=00ffaa&point=ffffff&area=true&area_color=003333&hide_border=true&radius=8&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -92,8 +91,8 @@ open_to    = ["Internships", "Collabs", "Hackathons"]
 
 <br>
 
-![views](https://komarev.com/ghpvc/?username=subham23s&label=👁️+Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1117)
-![stars](https://img.shields.io/badge/dynamic/json?color=00ffaa&labelColor=0d1117&style=for-the-badge&label=⭐+Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsubham23s)
+![views](https://komarev.com/ghpvc/?username=sujitmohanty-ui&label=👁️+Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1117)
+![stars](https://img.shields.io/badge/dynamic/json?color=00ffaa&labelColor=0d1117&style=for-the-badge&label=⭐+Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsujitmohanty-ui)
 
 </div>
 
