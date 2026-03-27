@@ -24,7 +24,7 @@ university = "Centurion University (2024–2028)"
 degree     = "B.Tech CSE — AI/ML Specialization"
 location   = "Bhubaneswar, Odisha, India 🇮🇳"
 focus      = ["Deep Learning", "NLP", "LLMs"]
-learning   = ["PyTorch", "Transformers", "SQL"]
+learning   = ["C", "Python", "SQL", "Java"]
 open_to    = ["Internships", "Collabs", "Hackathons"]
 ```
 
