@@ -59,11 +59,7 @@ open_to    = ["Internships", "Collabs", "Hackathons"]
 
 <div align="center">
 
-[![energy](https://github-readme-stats.vercel.app/api/pin/?username=subham23s&repo=energy-consumption-prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&description_lines_count=2)](https://github.com/subham23s/energy-consumption-prediction)
-[![blockverifier](https://github-readme-stats.vercel.app/api/pin/?username=subham23s&repo=BLOCK-VERIFIER&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&description_lines_count=2)](https://github.com/subham23s/BLOCK-VERIFIER)
-
-[![student](https://github-readme-stats.vercel.app/api/pin/?username=subham23s&repo=student-performance-predictor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&description_lines_count=2)](https://github.com/subham23s/student-performance-predictor)
-[![pdfforge](https://github-readme-stats.vercel.app/api/pin/?username=subham23s&repo=PDFforge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&description_lines_count=2)](https://github.com/subham23s/PDFforge)
+[![Stock Market Analysis](https://github.com/sujitmohanty-ui/Stocki_Market_Analysis)
 
 </div>
 
