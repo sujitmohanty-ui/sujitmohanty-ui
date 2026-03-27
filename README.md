@@ -60,6 +60,7 @@ open_to    = ["Internships", "Collabs", "Hackathons"]
 <div align="center">
 
 [![Stock Market Analysis](https://github.com/sujitmohanty-ui/Stocki_Market_Analysis)
+[![Social Media Mennace](https://github.com/sujitmohanty-ui/Social_Media_Mennace)
 
 </div>
 
